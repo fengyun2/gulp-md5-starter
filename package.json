@@ -161,7 +161,7 @@
     "natives": "^1.1.0",
     "minimist": "^1.2.0",
     "normalize-package-data": "^2.3.5",
-    "multipipe": "^0.1.2",
+    "multipipe": "^0.3.1",
     "normalize-path": "^2.0.1",
     "object-assign": "^4.1.0",
     "number-is-nan": "^1.0.0",
