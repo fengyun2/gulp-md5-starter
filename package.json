@@ -211,7 +211,7 @@
     "spdx-expression-parse": "^1.0.3",
     "split": "^0.3.3",
     "stream-consume": "^0.1.0",
-    "stream-combiner": "^0.0.4",
+    "stream-combiner": "^0.2.2",
     "string_decoder": "^0.10.31",
     "strip-bom": "^2.0.0",
     "strip-ansi": "^3.0.1",
