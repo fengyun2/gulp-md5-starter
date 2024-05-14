@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-clean-css": "^2.0.12",
     "gulp-make-css-url-version": "^0.0.13",
     "gulp-rev-append": "^0.1.6"
@@ -83,7 +83,7 @@
     "gulp-clean-css": "^2.0.12",
     "gulp-rev-append": "^0.1.6",
     "gulp-util": "^3.0.7",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulplog": "^1.0.0",
     "has-ansi": "^2.0.0",
     "has-gulplog": "^0.1.0",
